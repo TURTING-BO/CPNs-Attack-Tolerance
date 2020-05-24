@@ -20694,7 +20694,7 @@ Directory</text>
         </port>
       </place>
       <place id="ID2048143486">
-        <posattr x="235.000000"
+        <posattr x="266.000000"
                  y="-37.000000"/>
         <fillattr colour="White"
                   pattern=""
@@ -20717,7 +20717,7 @@ Directory</text>
                 anchor.vertical="0"/>
         </marking>
         <type id="ID2048143487">
-          <posattr x="235.000000"
+          <posattr x="266.000000"
                    y="-64.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -20731,7 +20731,7 @@ Directory</text>
                 version="4.0.1">BOOL</text>
         </type>
         <initmark id="ID2048143488">
-          <posattr x="175.000000"
+          <posattr x="206.000000"
                    y="-37.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -22212,7 +22212,7 @@ rtime = 0}</text>
         <transend idref="ID2048143474"/>
         <placeend idref="ID2048143486"/>
         <annot id="ID2048143500">
-          <posattr x="326.000000"
+          <posattr x="342.000000"
                    y="-28.000000"/>
           <fillattr colour="White"
                     pattern="Solid"
@@ -24826,9 +24826,9 @@ prov = (List.drop((#prov k), 1))}</text>
           <position value="1"/>
           <position value="10"/>
           <position value="2"/>
-          <position value="7"/>
           <position value="9"/>
           <position value="6"/>
+          <position value="7"/>
         </zorder>
       </cpnbinder>
     </binders>
