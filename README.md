@@ -40,16 +40,16 @@ A normal reading process of a patient is as follows.
 
 ### Attack Module
 
-Now consider three patients A, B, C and two doctors X, Y. The medical record of the patient C is {recID = "P3\_rec", data = "Name: Tom; Disease: COVID-19, Serious; Treatment: Critical;"}. The doctor Y needs to read the record of C and determine the therapy. Consider an attack (see Doc_Y_read.pdf and Attack.pdf) aiming at making the doctorY read a wrong record {recID = "P3\_rec", data = "Name: Tom; Disease: Flu, Mild; Treatment: Basic;"}, leading to incorrect diagnosis and treatment of the patient C, more seriously, losing C's life with no timely treatment! 
+Now consider three patients A, B, C and two doctors X, Y. The medical record of the patient C is ``{recID = "P3\_rec", data = "Name: Tom; Disease: COVID-19, Serious; Treatment: Critical;"}``. The doctor Y needs to read the record of C and determine the therapy. Consider an attack (see Doc_Y_read.pdf and Attack.pdf) aiming at making the doctorY read a wrong record ``{recID = "P3\_rec", data = "Name: Tom; Disease: Flu, Mild; Treatment: Basic;"}``, leading to incorrect diagnosis and treatment of the patient C, more seriously, losing C's life with no timely treatment! 
 
-<font color="#dd0000">This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps: </font><br />
+This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:
 
 1. First, he blocks the doctor Y to read the record of the patient C; 
 2. Then, during the blocking time, he steals the record of C; 
 3. Next, according to the stolen one, he modifies the record and injects it back to the O net; 
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
-In Fig.~\ref{result1}, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;" to ``Disease: Flu, Mild; Treatment: Basic;".
+In Fig.~\ref{result1}, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
 
 
