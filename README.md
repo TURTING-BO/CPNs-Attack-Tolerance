@@ -3,7 +3,7 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 
 ## Table of Contents
 
-- [Run it!](#Run it!)
+- [Run](#Run)
 
 ## Run it!
 When you run it, please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use this powerful tool.
