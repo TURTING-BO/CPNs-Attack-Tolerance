@@ -9,13 +9,13 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 
 ## Background
 
-### Simulation Tool
-
-When you want to simulate this example, please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use the powerful tool.
-
 ### Original Model
 
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
+
+### Simulation Tool
+
+When you want to simulate this example, please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use the powerful tool.
 
 ## Illustration
 
