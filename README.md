@@ -65,6 +65,7 @@ In Figure 1, the attacker successfully modify C's record from ``Disease: COVID-1
 
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
 
+ <div align="center">![an image][https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png]</div>
 <center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Figure 1. Attack result</center>
 ### Tolerance Solution
 
