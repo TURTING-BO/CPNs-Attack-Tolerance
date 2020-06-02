@@ -4,6 +4,7 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 ## Table of Contents
 
 - [Run](#Run)
+- [Reference](#Reference)
 
 ## Run
 When you run it, please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use this powerful tool.
@@ -26,7 +27,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 The composition of bypassing, checking and compensation solutions can effectively tolerate the above attack (see Doc_Y_read.pdf and Attack.pdf).
 
 
-Reference
+## Reference
 
 [1] Fitch D F, Xu H. A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage[C]//SEKE. 2012: 333-339.
 
