@@ -49,13 +49,13 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 3. Next, according to the stolen one, he modifies the record and injects it back to the O net; 
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
-In Fig.~\ref{result1}, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
+In Figure 1, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
-
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
 
 ### Tolerance Solution
 
-Fig.~\ref{result2} and Fig.~\ref{result3} present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
+Figure 2 and Fig.~\ref{result3} present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
 
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png)
 
