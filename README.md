@@ -59,7 +59,7 @@ Figure 2 and Figyre 3 present the result of our solution to the attack, where th
 
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 2. Checking and compensation result")
 
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 3. Doctor Y reading result")
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png "Figure 3. Doctor Y reading result")
 
 
 In Fig.Figure 2, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Fig.~\ref{cloud}. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
