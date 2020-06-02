@@ -38,11 +38,11 @@ A normal reading process of a patient is as follows.
 
 *Note* that a patient's record is distributed in three providers to improve security. The read and write operations of doctors are similar to the read operation of patients. 
 
-### <font color="#dd0000">Attack Module</font><br />
+### Attack Module
 
 Now consider three patients A, B, C and two doctors X, Y. The medical record of the patient C is {recID = "P3\_rec", data = "Name: Tom; Disease: COVID-19, Serious; Treatment: Critical;"}. The doctor Y needs to read the record of C and determine the therapy. Consider an attack (see Doc_Y_read.pdf and Attack.pdf) aiming at making the doctorY read a wrong record {recID = "P3\_rec", data = "Name: Tom; Disease: Flu, Mild; Treatment: Basic;"}, leading to incorrect diagnosis and treatment of the patient C, more seriously, losing C's life with no timely treatment! 
 
-This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps: 
+<font color="#dd0000">This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps: </font><br />
 
 1. First, he blocks the doctor Y to read the record of the patient C; 
 2. Then, during the blocking time, he steals the record of C; 
