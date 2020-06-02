@@ -20,7 +20,7 @@ The original model comes from reference [1], [2]. In the new model, a compound a
 
 ### Simulation Tool
 
-When you want to simulate this example (i.e., CaseStudy.cpn), please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use the powerful tool.
+When you want to simulate this example (i.e., [CaseStudy.cpn](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/CaseStudy.cpn)), please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use the powerful tool.
 
 ## Case Study
 
