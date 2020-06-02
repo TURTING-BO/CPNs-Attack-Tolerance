@@ -17,6 +17,10 @@ When you want to simulate this example, please make sure that you have installed
 
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
 
+## Illustration
+
+### Modules
+
 In this case study, there are mainly four modules including directory, patient, doctor and cloud. 
     The directory module receives query requests before responding to them. 
     The patient or doctor modules read or write records, where 
@@ -24,7 +28,7 @@ In this case study, there are mainly four modules including directory, patient, 
         a doctor can both read and write records of his/her patients. 
     The cloud module stores records of patients and manages reading and writing operations. 
  
-## Illustration
+
  
 When a patient needs to read records, he/she first sends a query request to the directory module. After receiving the request, the directory module responds to the patient with a provider list,  indicating where his/her records are stored. Then, the patient constructs a read request according to the provider list and sends it to the cloud module. The cloud module supervises the reading process and returns the records if successful. Finally, the patient receives his/her records. Note that a patient's record is distributed in three providers to improve security. The read and write operations of doctors are similar to the read operation of patients. 
 
