@@ -48,6 +48,6 @@ The composition of bypassing, checking and compensation solutions can effectivel
 
 ## References
 
-[1] Fitch D F, Xu H. A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage[C]//SEKE. 2012: 333-339.
+[1]. Fitch D F, Xu H. A Petri Net Model for Secure and Fault-Tolerant Cloud-Based Information Storage[C]//SEKE. 2012: 333-339.
 
-[2] Fitch D, Xu H. A RAID-based secure and fault-tolerant model for cloud information storage[J]. International Journal of Software Engineering and Knowledge Engineering, 2013, 23(05): 627-654.
+[2]. Fitch D, Xu H. A RAID-based secure and fault-tolerant model for cloud information storage[J]. International Journal of Software Engineering and Knowledge Engineering, 2013, 23(05): 627-654.
