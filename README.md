@@ -3,12 +3,15 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 
 ## Table of Contents
 
-- [Tool](#Tool)
+- [Background](#Background)
 - [Reference](#Reference)
 
-## Tool
+## Background
+
+### Tool
 When you run it, please make sure that you have installed CPNs Tools. CPNs Tools can be download from this website "http://cpntools.org/". There are many useful tutorials about how to use this powerful tool.
 
+### Original Model
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
 
 In this case study, there are mainly four modules including directory, patient, doctor and cloud. 
