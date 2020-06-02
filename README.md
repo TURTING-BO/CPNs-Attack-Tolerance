@@ -5,7 +5,11 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 
 - [Background](#Background)
   - [Original Model](#original-model)
+  - [Simulation Tool](#simulation-tool)
 - [Case Study](#case-study)
+  - [Original Modules](#original-modules)
+  - [Attack Module](#attack-module)
+  - [Tolerance Solution](#tolerance-solution)
 - [References](#References)
 
 ## Background
