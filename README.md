@@ -65,8 +65,7 @@ In Figure 1, the attacker successfully modify C's record from ``Disease: COVID-1
 
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
 
-<h4 align="center">Figure 1. Attack result</h4>
-
+<center style="font-size:14px;color:#C0C0C0;text-decoration:underline">Figure 1. Attack result</center>
 ### Tolerance Solution
 
 Figure 2 and Figyre 3 present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
