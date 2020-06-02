@@ -58,7 +58,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
 Figure 2. Blocking Attack
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png "Figure 2. Blocking Attack")
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png "Figure 2. Blocking Attack")
 
 Figure 3. Stealing, Modification and Injection Attack
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png "Figure 3. Stealing, Modification and Injection")
