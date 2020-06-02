@@ -21,7 +21,7 @@ The original model comes from reference [1], [2]. In the new model, a compound a
 
 ### Modules
 
-In this case study, there are mainly four modules including directory, patient, doctor and cloud. 
+In this case study, there are mainly four modules including *directory*, patient, doctor and cloud. 
     The directory module receives query requests before responding to them. 
     The patient or doctor modules read or write records, where 
         a patient can only read his/her own information
