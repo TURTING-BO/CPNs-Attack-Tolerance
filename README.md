@@ -47,7 +47,7 @@ A normal reading process of a patient is as follows.
 
 Now consider three patients A, B, C and two doctors X, Y. The medical record of the patient C is ``{recID = "P3\_rec", data = "Name: Tom; Disease: COVID-19, Serious; Treatment: Critical;"}``. The doctor Y needs to read the record of C and determine the therapy. Consider an attack (see Doc_Y_read.pdf and Attack.pdf) aiming at making the doctorY read a wrong record ``{recID = "P3\_rec", data = "Name: Tom; Disease: Flu, Mild; Treatment: Basic;"}``, leading to incorrect diagnosis and treatment of the patient C, more seriously, losing C's life with no timely treatment!
 
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M1_Main.pdf "Figure 1. Main")
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M1_Main.png "Figure 1. Main")
 
 This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:
 
