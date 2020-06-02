@@ -1,5 +1,7 @@
 # CPNs-Attack-Tolerance
-This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework".
+This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework". When you want to run it, please make sure that you have installed CPNs Tools.
+
+CPNs Tools can be download from this url: http://cpntools.org/
 
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
 
