@@ -67,18 +67,23 @@ Figure 3. Attack result
 
 ### Tolerance Solution
 
-Figure 4 and Figyre 5 present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
+Figure 4 and Figyre 5 present the bypassing solution and the checking solution to tolerate the above attack. 
 
-Figure 4. Checking and compensation result
+Figure 4. Bypassing Solution
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png "Figure 4. Bypassing Solution")
+
+Figure 5. Checking Solution
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png "Figure 5. Checking Solution")
+
+Figure 6 and Figyre 7 present the simulation result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
+
+Figure 6. Checking and compensation result
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R4_After%20Checking%20Solution.png "Figure 2. Checking and compensation result")
 
-Figure 5. Doctor Y reading result
+Figure 7. Doctor Y reading result
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png "Figure 3. Doctor Y reading result")
 
-In Figure 4, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Figure 6. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
-
-Figure 6. Cloud
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png "Figure 6. Cloud")
+In Figure 6, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Figure 4. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
 
 The composition of bypassing, checking and compensation solutions can effectively tolerate the above attack (see Doc_Y_read.pdf and Attack.pdf).
 
