@@ -51,6 +51,18 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 In Figure 1, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Figure 1. Attack result</div>
+</center>
+
+
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
 
 <h4 align="center">Figure 1. Attack result</h4>
