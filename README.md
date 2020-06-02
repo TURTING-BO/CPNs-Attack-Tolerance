@@ -4,8 +4,8 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 ## Table of Contents
 
 - [Background](#Background)
-- [Illustration](#Illustration)
-- [Reference](#References)
+- [Illustrations](#Illustrations)
+- [References](#References)
 
 ## Background
 
@@ -17,14 +17,15 @@ When you want to simulate this example, please make sure that you have installed
 
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
 
-## Illustration
+## Illustrations
 
 ### Original Modules
 
 In this case study, there are mainly four modules including _directory_, _patient_, _doctor_ and _cloud_. 
 * The directory module receives query requests before responding to them. 
 * The patient or doctor modules read or write records, where 
-  - a patient can only read his/her own information a doctor can both read and write records of his/her patients. 
+  > a patient can only read his/her own information;
+  > a doctor can both read and write records of his/her patients. 
 * The cloud module stores records of patients and manages reading and writing operations. 
  
 
