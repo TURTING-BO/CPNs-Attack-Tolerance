@@ -24,8 +24,8 @@ The original model comes from reference [1], [2]. In the new model, a compound a
 In this case study, there are mainly four modules including _directory_, _patient_, _doctor_ and _cloud_. 
 * The directory module receives query requests before responding to them. 
 * The patient or doctor modules read or write records, where 
-  > a patient can only read his/her own information;
-  > a doctor can both read and write records of his/her patients. 
+ - a patient can only read his/her own information;
+ - a doctor can both read and write records of his/her patients. 
 * The cloud module stores records of patients and manages reading and writing operations. 
  
 
