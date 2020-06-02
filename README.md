@@ -57,6 +57,8 @@ In Fig.~\ref{result1}, the attacker successfully modify C's record from ``Diseas
 
 Fig.~\ref{result2} and Fig.~\ref{result3} present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
 
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png)
+
 In Fig.~\ref{result2}, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Fig.~\ref{cloud}. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
 
 The composition of bypassing, checking and compensation solutions can effectively tolerate the above attack (see Doc_Y_read.pdf and Attack.pdf).
