@@ -33,6 +33,7 @@ In this case study, there are mainly four modules including _directory_, _patien
 3. Then, the patient constructs a read request according to the provider list and sends it to the cloud module. 
 4. The cloud module supervises the reading process and returns the records if successful. 
 5. Finally, the patient receives his/her records. 
+
 *Note* that a patient's record is distributed in three providers to improve security. The read and write operations of doctors are similar to the read operation of patients. 
 
 Now consider three patients A, B, C and two doctors X, Y. The medical record of the patient C is {recID = "P3\_rec", data = "Name: Tom; Disease: COVID-19, Serious; Treatment: Critical;"}. The doctor Y needs to read the record of C and determine the therapy. Consider an attack (see Doc_Y_read.pdf and Attack.pdf) aiming at making the doctorY read a wrong record {recID = "P3\_rec", data = "Name: Tom; Disease: Flu, Mild; Treatment: Basic;"}, leading to incorrect diagnosis and treatment of the patient C, more seriously, losing C's life with no timely treatment! 
