@@ -57,28 +57,28 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 3. Next, according to the stolen one, he modifies the record and injects it back to the O net; 
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
-Figure 2. Blocking Attack
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png "Figure 2. Blocking Attack")
-
-Figure 3. Stealing, Modification and Injection Attack
+Figure 2. Stealing, Modification and Injection Attack
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png "Figure 3. Stealing, Modification and Injection")
 
-In Figure 1, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
+In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
-Figure 1. Attack result
+Figure 3. Attack result
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
 
 ### Tolerance Solution
 
-Figure 2 and Figyre 3 present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
+Figure 4 and Figyre 5 present the result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
 
-Figure 2. Checking and compensation result
+Figure 4. Checking and compensation result
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R4_After%20Checking%20Solution.png "Figure 2. Checking and compensation result")
 
-Figure 3. Doctor Y reading result
+Figure 5. Doctor Y reading result
 ![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png "Figure 3. Doctor Y reading result")
 
-In Figure 2, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Fig.~\ref{cloud}. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
+In Figure 4, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Figure 6. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
+
+Figure 6. Cloud
+![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png "Figure 6. Cloud")
 
 The composition of bypassing, checking and compensation solutions can effectively tolerate the above attack (see Doc_Y_read.pdf and Attack.pdf).
 
