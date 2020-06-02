@@ -4,7 +4,7 @@ This is a case study of "A Coloured Petri Nets Based Attack Tolerance Framework"
 ## Table of Contents
 
 - [Background](#Background)
-- [Illustrations](#Illustrations)
+- [Illustration](#Illustration)
 - [References](#References)
 
 ## Background
@@ -17,7 +17,7 @@ When you want to simulate this example, please make sure that you have installed
 
 The original model comes from reference [1], [2]. In the new model, a compound attack and tolerance solution is added. 
 
-## Illustrations
+## Illustration
 
 ### Original Modules
 
@@ -42,7 +42,7 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
 
 This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps: First, he blocks the doctor Y to read the record of the patient C; then, during the blocking time, he steals the record of C; next, according to the stolen one, he modifies the record and injects it back to the O net; finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
-### Solutions
+### Tolerance Solution
 The composition of bypassing, checking and compensation solutions can effectively tolerate the above attack (see Doc_Y_read.pdf and Attack.pdf).
 
 
