@@ -68,7 +68,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
     <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="75%" height="75%"> 
   </div>
   <div align=center>
-     <figcaption>+ green Figure 2. Attack</figcaption>
+     <figcaption>Figure 2. Attack</figcaption>
   </div>    
 </figure>
 
@@ -87,19 +87,43 @@ In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-1
 
 Figure 4 and Figyre 5 present the bypassing solution and the checking solution to tolerate the above attack. 
 
-Figure 4. Bypassing Solution
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png "Figure 4. Bypassing Solution")
+<figure>
+  <div align=center>
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png"> 
+  </div>
+  <div align=center>
+     <figcaption>Figure 4. Bypassing Solution</figcaption>
+  </div>    
+</figure>
 
-Figure 5. Checking Solution
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png "Figure 5. Checking Solution")
+<figure>
+  <div align=center>
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png"> 
+  </div>
+  <div align=center>
+     <figcaption>Figure 5. Checking Solution</figcaption>
+  </div>    
+</figure>
 
 Figure 6 and Figyre 7 present the simulation result of our solution to the attack, where the doctor Y can read the correct record of the patient C. 
 
-Figure 6. Checking and compensation result
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R4_After%20Checking%20Solution.png "Figure 2. Checking and compensation result")
+<figure>
+  <div align=center>
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R4_After%20Checking%20Solution.png" width="90%" height="90%"> 
+  </div>
+  <div align=center>
+     <figcaption>Figure 6. Checking and compensation result</figcaption>
+  </div>    
+</figure>
 
-Figure 7. Doctor Y reading result
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png "Figure 3. Doctor Y reading result")
+<figure>
+  <div align=center>
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png" width="90%" height="90%"> 
+  </div>
+  <div align=center>
+     <figcaption>Figure 7. Doctor Y reading result</figcaption>
+  </div>    
+</figure>
 
 In Figure 6, our detector found this change and replaced the wrong record with the correct one, with the cooperation of bypassing solution shown in Figure 4. Finally, the doctor Y can read the correct record of C and decide a proper therapy.
 
