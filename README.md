@@ -66,7 +66,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M6_Attack.png" width="75%" height="75%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M6_Attack.png" width="70%" height="70%"> 
   </div>
   <div align=center>
      <figcaption>Figure 2. Attack</figcaption>
@@ -77,7 +77,7 @@ In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-1
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R2_Stealing_Modification_Injection%20Result.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R2_Stealing_Modification_Injection%20Result.png" width="80%" height="80%"> 
   </div>
   <div align=center>
      <figcaption>Figure 3. Attack result</figcaption>
@@ -110,7 +110,7 @@ Figure 6 and Figyre 7 present the simulation result of our solution to the attac
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R4_After%20Checking%20Solution.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R4_After%20Checking%20Solution.png" width="80%" height="80%"> 
   </div>
   <div align=center>
      <figcaption>Figure 6. Checking and compensation result</figcaption>
@@ -119,7 +119,7 @@ Figure 6 and Figyre 7 present the simulation result of our solution to the attac
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R6_Doctor%20Read%20Result.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R6_Doctor%20Read%20Result.png" width="80%" height="80%"> 
   </div>
   <div align=center>
      <figcaption>Figure 7. Doctor Y reading result</figcaption>
