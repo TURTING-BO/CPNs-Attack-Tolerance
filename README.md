@@ -56,8 +56,7 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
   </div>    
 </figure>
 
-  
-This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:
+This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:  
 
 1. First, he blocks the doctor Y to read the record of the patient C; 
 2. Then, during the blocking time, he steals the record of C; 
