@@ -59,6 +59,9 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 <div align=center>
   <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="70%" height="70%">
+</div>
+
+<div align=center>
   Figure 2. Stealing, Modification and Injection Attack
 </div>
 
