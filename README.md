@@ -59,7 +59,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 Figure 2. Stealing, Modification and Injection Attack
 
-<img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="50%" height="50%" align="middle">
+<img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="80%" height="80%" align="middle">
 
 In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
