@@ -62,7 +62,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 </div>
 
 <div align=center>
-  Figure 2. Stealing, Modification and Injection Attack
+  **Figure 2. Stealing, Modification and Injection Attack**
 </div>
 
 In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
