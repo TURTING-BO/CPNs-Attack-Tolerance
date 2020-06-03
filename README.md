@@ -52,7 +52,7 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
     <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M1_Main.png"> 
   </div>
   <div align=center>
-     <figcaption>FFigure 1. Main Process</figcaption>
+     <figcaption>Figure 1. Main Process</figcaption>
   </div>    
 </figure>
 
@@ -74,8 +74,14 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
 
-Figure 3. Attack result
-![Alt text](https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png "Figure 1. Attack result")
+<figure>
+  <div align=center>
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png" width="90%" height="90%"> 
+  </div>
+  <div align=center>
+     <figcaption>Figure 3. Attack result</figcaption>
+  </div>    
+</figure>
 
 ### Tolerance Solution
 
