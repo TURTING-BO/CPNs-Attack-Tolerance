@@ -50,7 +50,7 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M1_Main.png"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M1_Main.png"> 
   </div>
   <div align=center>
      <figcaption>Figure 1. Main Process</figcaption>
@@ -66,7 +66,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="75%" height="75%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M6_Attack.png" width="75%" height="75%"> 
   </div>
   <div align=center>
      <figcaption>Figure 2. Attack</figcaption>
@@ -77,7 +77,7 @@ In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-1
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R2_Stealing_Modification_Injection%20Result.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R2_Stealing_Modification_Injection%20Result.png" width="90%" height="90%"> 
   </div>
   <div align=center>
      <figcaption>Figure 3. Attack result</figcaption>
@@ -90,7 +90,7 @@ Figure 4 and Figyre 5 present the bypassing solution and the checking solution t
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M5.2.1_Doc_Y_read.png"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M5.2.1_Doc_Y_read.png"> 
   </div>
   <div align=center>
      <figcaption>Figure 4. Bypassing Solution</figcaption>
@@ -99,7 +99,7 @@ Figure 4 and Figyre 5 present the bypassing solution and the checking solution t
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M3_Cloud.png"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Module%20Figures/M3_Cloud.png"> 
   </div>
   <div align=center>
      <figcaption>Figure 5. Checking Solution</figcaption>
@@ -110,7 +110,7 @@ Figure 6 and Figyre 7 present the simulation result of our solution to the attac
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R4_After%20Checking%20Solution.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R4_After%20Checking%20Solution.png" width="90%" height="90%"> 
   </div>
   <div align=center>
      <figcaption>Figure 6. Checking and compensation result</figcaption>
@@ -119,7 +119,7 @@ Figure 6 and Figyre 7 present the simulation result of our solution to the attac
 
 <figure>
   <div align=center>
-    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/R6_Doctor%20Read%20Result.png" width="90%" height="90%"> 
+    <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/Result%20Figures/R6_Doctor%20Read%20Result.png" width="90%" height="90%"> 
   </div>
   <div align=center>
      <figcaption>Figure 7. Doctor Y reading result</figcaption>
