@@ -57,10 +57,9 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 3. Next, according to the stolen one, he modifies the record and injects it back to the O net; 
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
-Figure 2. Stealing, Modification and Injection Attack
-
 <div align=center>
   <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="70%" height="70%">
+  Figure 2. Stealing, Modification and Injection Attack
 </div>
 
 In Figure 3, the attacker successfully modify C's record from ``Disease: COVID-19, Serious; Treatment: Critical;`` to ``Disease: Flu, Mild; Treatment: Basic;``.
