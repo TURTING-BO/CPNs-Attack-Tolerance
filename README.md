@@ -54,9 +54,9 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
   <div align=center>
      <figcaption>Figure 1. Main Process</figcaption>
   </div>    
-</figure>  
+</figure>
 
-
+  
 This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:
 
 1. First, he blocks the doctor Y to read the record of the patient C; 
