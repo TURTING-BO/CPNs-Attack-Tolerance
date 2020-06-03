@@ -57,6 +57,11 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 3. Next, according to the stolen one, he modifies the record and injects it back to the O net; 
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
+<figure>
+  <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="70%" height="70%">
+  <figcaption>This is my caption text.</figcaption>
+</figure>
+
 <div align=center>
   <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" width="70%" height="70%">
 </div>
