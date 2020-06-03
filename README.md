@@ -58,7 +58,7 @@ This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing an
 4. Finally, he cancels blocking, which allows the doctor Y to read an incorrect record.
 
 <figure>
-  <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" align=center width="70%" height="70%">
+  <img src="https://github.com/TURTING-BO/CPNs-Attack-Tolerance/blob/master/M6_Attack.png" align="center" width="70%" height="70%">
   <figcaption>This is my caption text.</figcaption>
 </figure>
 
