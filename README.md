@@ -27,6 +27,7 @@ When you want to simulate this example (i.e., [CaseStudy.cpn](https://github.com
 ### Original Modules
 
 In this case study, there are mainly four modules including _directory_, _patient_, _doctor_ and _cloud_. 
+
 * The directory module receives query requests before responding to them. 
 * The patient or doctor modules read or write records, where 
   - a patient can only read his/her own information;
@@ -56,7 +57,7 @@ Now consider three patients A, B, C and two doctors X, Y. The medical record of 
   </div>    
 </figure>
 
-This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:  
+This compound attack might consist in blocking (see Doc_Y_read.pdf), stealing and injection (see Attack.pdf). The attacker carries out the following steps:
 
 1. First, he blocks the doctor Y to read the record of the patient C; 
 2. Then, during the blocking time, he steals the record of C; 
